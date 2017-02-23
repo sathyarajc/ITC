@@ -3,14 +3,14 @@
   <groupId>com.devops.itc</groupId>
   <artifactId>ItcApp</artifactId>
   <packaging>war</packaging>
-  <version>0.0.4</version>
+  <version>0.0.5-SNAPSHOT</version>
   <name>ItcApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
 	<connection>scm:git:git@github.com:sathyarajc/ITC.git</connection>
 	<url>scm:git:git@github.com:sathyarajc/ITC.git</url>
 	<developerConnection>scm:git:git@github.com:sathyarajc/ITC.git</developerConnection>
-	<tag>ItcApp-0.0.4</tag>
+	<tag>HEAD</tag>
   </scm>
   <distributionManagement>
 	<!-- Publish the versioned snapshot here -->
