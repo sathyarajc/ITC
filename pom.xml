@@ -49,8 +49,7 @@
 						<goal>perform</goal>
 					</goals>
 					<configuration>
-						<pomFileName>${project.name}/pom.xml</pomFileName>
-						<webXml>src\main\webapp\WEB-INF\web.xml</webXml>
+						<pomFileName>${project.name}/pom.xml</pomFileName>						
 					</configuration>
 				</execution>
 			</executions>
