@@ -19,7 +19,7 @@
 		<url>http://localhost:8080/nexus/content/repositories/releases</url>
 	</repository>
 
-	<!-- Publish the versioned releases here -->
+	<!-- Publishes the versioned releases here -->
 	<snapshotRepository>
 		<id>idNexus</id>
 		<url>http://localhost:8080/nexus/content/repositories/snapshots</url>
