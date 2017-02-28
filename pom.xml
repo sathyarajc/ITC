@@ -3,7 +3,7 @@
   <groupId>com.devops.itc</groupId>
   <artifactId>ItcApp</artifactId>
   <packaging>war</packaging>
-  <version>0.0.8-SNAPSHOT</version>
+  <version>0.0.7-SNAPSHOT</version>
   <name>ItcApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
