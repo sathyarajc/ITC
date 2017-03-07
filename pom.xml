@@ -55,7 +55,6 @@
 			</executions>
 			</plugin>
 		</plugins>
-	  </pluginManagement> 
-    <finalName>ItcApp</finalName>
+	  </pluginManagement>
   </build>
 </project>
